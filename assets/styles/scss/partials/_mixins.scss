@@ -1,0 +1,5 @@
+@mixin media ($screen : ((max-width : 600px))) {
+  @media ($screen) {
+    height : 10px;
+  }
+}
