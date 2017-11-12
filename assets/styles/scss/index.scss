@@ -1,0 +1,10 @@
+@import 'partials/_mixins.scss';
+@import 'partials/_variables.scss';
+
+body {
+  background : $first-color;
+  main {
+    font-size : 12px;
+    color : $second-color;
+  }
+}
