@@ -1,0 +1,42 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color:#0054a6;
+  height: 100vh;
+  width: 100vw;
+}
+
+.logo-side{
+  width: 20vw;
+  margin-left: 5vw;
+} 
+.calendar{
+  margin-top:4vw;
+  margin-left:-3vw;
+  font-size:7vw;
+  font-weight: 700;
+}
+.calendar h3{
+  font-size:3.5vw;
+}
+
+.user{
+  margin-right: 6vw;
+  margin-top:3.5vw;
+}
+.user i{
+  font-size: 8vw;
+}
+.user p{
+  font-size: 3.5vw;
+}
+
+footer {
+  width: 100vw;
+  height:14.84vw;
+  position: fixed;
+  bottom: 0vh;
+  padding-top:2.1vh;
+  font-size:6vw;
+  color:rgba(255, 255, 255, 0.30);
+  background-color: #0054a6;
+}
