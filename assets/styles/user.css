@@ -30,3 +30,13 @@ body{
     font-size: 3.5vw;
 }
 
+footer {
+    width: 100vw;
+    height:14.84vw;
+    position: fixed;
+    bottom: 0vh;
+    padding-top:2.1vh;
+    font-size:6vw;
+    color:rgba(255, 255, 255, 0.30);
+    background-color: #0054a6;
+}
